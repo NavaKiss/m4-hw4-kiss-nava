@@ -12,7 +12,14 @@ h2 > p {
 }
 
 ul {color: white}
+
 .wrapimage {
     width:100%; 
-    height:auto
+    height:721px
+}
+
+#CoJoHeading {
+    position: absolute
+    bottom: 10px
+    left: 16px
 }
