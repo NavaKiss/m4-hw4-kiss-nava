@@ -1,0 +1,14 @@
+body {
+    background-color:#DCCFC6;
+    color: white
+}
+
+h1 {
+    color: white
+}
+
+h2 > p {
+    color: white
+}
+
+ul {color: #392C23}
