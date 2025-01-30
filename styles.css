@@ -1,6 +1,8 @@
 body {
     background: color #958378;
     color: white
+    margin: auto
+    max-width=900px
 }
 
 h1 {
