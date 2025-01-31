@@ -2,7 +2,7 @@ body {
     background-color: #958378;
     color: white;
     margin: auto;
-    max-width: 980px;
+    max-width: 300px;
 }
 
 h2 > p {
@@ -16,15 +16,20 @@ ul {
 
 #bannerimage {
     position: relative;
-    text-align: left;
-    width: 980px; 
-    height: 721px;
+    text-align: center;
+    width: 300px; 
+    height: 100px;
+}
+
+@font-face {
+    font-family: 'ElanorFreePersonalUse';
+    src: url(ElanorFreePersonalUse-ExtLt.otf) format('otf')
 }
 
 h1 {
     position: absolute;
     top: 132px;
-    left: 12px;
+    left: 30px;
     font-size: 48px;
     color: white;
     font-family: 'ElanorFreePersonalUse';
