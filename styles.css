@@ -22,12 +22,14 @@ ul {
     position: relative;
     text-align: left;
     width:721px; 
-    height:400px;
+    height:200px;
 }
 
 h1 {
     position: absolute;
-    top: 66%;
+    top: 33%;
+    left: 12px;
+    font-size: 48px;
     color: white;
     font-family: 'ElanorFreePersonalUse';
 }
