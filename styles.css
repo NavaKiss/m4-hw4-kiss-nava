@@ -1,8 +1,8 @@
 body {
     background: color #958378;
-    color: white
-    margin: auto
-    max-width=900px
+    color: white;
+    margin: auto;
+    max-width=782px
 }
 
 h1 {
@@ -17,14 +17,14 @@ ul {
     background: color #958378;
     color:white}
 
-.wrapimage {
+#bannerimage {
     text-align: center;
     width:100%; 
     height:721px
 }
 
-#CoJoHeading {
-    position: absolute
-    bottom: 10px
-    left: 16px
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'ElanorFreePersonalUse';
 }
