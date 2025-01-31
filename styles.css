@@ -2,11 +2,7 @@ body {
     background-color: #958378;
     color: white;
     margin: auto;
-    max-width=721px;
-}
-
-h1 {
-    color: white
+    max-width: 980px;
 }
 
 h2 > p {
@@ -21,15 +17,19 @@ ul {
 #bannerimage {
     position: relative;
     text-align: left;
-    width:721px; 
-    height:200px;
+    width: 980px; 
+    height: 721px;
 }
 
 h1 {
     position: absolute;
-    top: 33%;
+    top: 132px;
     left: 12px;
     font-size: 48px;
     color: white;
     font-family: 'ElanorFreePersonalUse';
+}
+
+header {
+    padding-bottom: 50px
 }
