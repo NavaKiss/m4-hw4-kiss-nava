@@ -3,6 +3,7 @@ body {
     color: white;
     margin: auto;
     max-width: 300px;
+    text-align: center;
 }
 
 h2 > p, ul {
