@@ -5,13 +5,8 @@ body {
     max-width: 300px;
 }
 
-h2 > p {
+h2 > p, ul {
     color: white
-}
-
-ul {
-    background: color #958378;
-    color:white;
 }
 
 #bannerimage {
