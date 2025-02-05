@@ -38,7 +38,7 @@ h1 {
 }
 
 header {
-    padding-bottom: 300px;
+    padding-bottom: 20px;
     text-align: center;
     background-position: center;
     width: 100%
@@ -46,4 +46,9 @@ header {
 
 nav {
     padding: 20px;
+}
+
+footer {
+    padding-top: 50px;
+    font-size: 12px
 }
