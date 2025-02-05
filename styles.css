@@ -20,8 +20,7 @@ h2 {
     text-align: center;
     height: 50%;
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+   background-size: cover;
 }
 
 @font-face {
@@ -40,5 +39,7 @@ h1 {
 
 header {
     padding-bottom: 400px;
-    text-align: center
+    text-align: center;
+    background-position: center;
+    width: 100%
 }
