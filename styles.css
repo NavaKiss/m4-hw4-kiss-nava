@@ -30,9 +30,9 @@ h2 {
 
 h1 {
     position: absolute;
-    top: 132px;
+    top: 500px;
     left: 30px;
-    font-size: 48px;
+    font-size: 42px;
     color: white;
     font-family: 'ElanorFreePersonalUse';
 }
@@ -51,4 +51,10 @@ nav {
 footer {
     padding-top: 50px;
     font-size: 12px
+}
+
+nav > a {
+    color: white;
+    font-size: 24px;
+    padding: 5px;
 }
